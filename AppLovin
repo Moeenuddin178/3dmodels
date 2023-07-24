@@ -1,6 +1,10 @@
 {
   "MyAds": {
     "AppID": "wiRXZVKFeZeOHcJTosBTr16xkH0PJbSbkTT47n0e92eAbiwXLAObzmDS_9V6vFTmqUy_-fDBe3AwWKeqoWbxAh",
-    "InterstitialNL": "a558834c342d68a6"
+    "InterstitialNL1": "a558834c342d68a6",
+    "InterstitialNL2": "a558834c342d68a6",
+    "InterstitialNL3": "a558834c342d68a6",
+    "InterstitialNL4": "a558834c342d68a6",
+    "InterstitialNL5": "a558834c342d68a6"
   }
 }
